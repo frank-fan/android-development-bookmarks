@@ -3,7 +3,7 @@ android-development-bookmarks
 
 Bookmarks for android development
 
-+ UI interface
++ UI
   + [Slide Menu](https://github.com/jfeinstein10/SlidingMenu)
   + [ActionBarSherlock](http://actionbarsherlock.com/)
   + [Android ViewBadger](https://github.com/jgilfelt/android-viewbadger)
