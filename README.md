@@ -13,6 +13,7 @@ Bookmarks for android development
   + [ListViewAnimations - An Android library which allows developers to easily add animations to ListView items](https://github.com/nhaarman/ListViewAnimations)
   + [android-swipelistview - An Android List View implementation with support for drawable cells and many other swipe related features.](https://github.com/47deg/android-swipelistview)
   + [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
+  + [ActionBar-PullToRefresh - provides an easy way to add a modern version of the pull-to-refresh interaction to your application.](https://github.com/chrisbanes/ActionBar-PullToRefresh)
 
 
 + ORM
@@ -43,3 +44,6 @@ Bookmarks for android development
   + [tape - a collection of queue-related classes for Android and Java by Square, Inc.](http://square.github.io/tape/)
   + [seismic - Android device shake detection.by Square, Inc.](https://github.com/square/seismic)
   + [Pollexor - Java client for the Thumbor image service which allows you to build URIs in an expressive fashion using a fluent API.](http://square.github.io/pollexor/)
+
++ Demo
+  + [BlurEffectForAndroidDesign - Sample to show how to implement blur graphical tricks](https://github.com/PomepuyN/BlurEffectForAndroidDesign)
