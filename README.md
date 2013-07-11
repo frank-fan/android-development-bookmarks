@@ -14,6 +14,7 @@ Bookmarks for android development
   + [android-swipelistview - An Android List View implementation with support for drawable cells and many other swipe related features.](https://github.com/47deg/android-swipelistview)
   + [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
   + [ActionBar-PullToRefresh - provides an easy way to add a modern version of the pull-to-refresh interaction to your application.](https://github.com/chrisbanes/ActionBar-PullToRefresh)
+  + [android-viewbadger - A simple way to "badge" any given Android view at runtime without having to cater for it in layout](https://github.com/jgilfelt/android-viewbadger)
 
 
 + ORM
@@ -26,7 +27,9 @@ Bookmarks for android development
   + [Log4j - Logging with Log4J in Android | providing LogCat appender, configuration facade and slf4j support](https://code.google.com/p/android-logging-log4j/)
   + [Common IO - A library of utilities to assist with developing IO functionality.](http://commons.apache.org/proper/commons-io/)
   + [google-gson - A Java library to convert JSON to Java objects and vice-versa](https://code.google.com/p/google-gson/)
-
+  + [Keyczar - an open source cryptographic toolkit designed to make it easier and safer for developers to use cryptography in their applications. by Google.inc](http://www.keyczar.org/)
+  + [appdatapreferences-android](https://github.com/googledrive/appdatapreferences-android)
+  
 + Push Service
   + [GCM - Google Cloud Messaging for Android](http://developer.android.com/google/gcm/index.html)
   + [Parse - The perfect cloud for your apps.](https://www.parse.com/)
@@ -47,3 +50,13 @@ Bookmarks for android development
 
 + Demo
   + [BlurEffectForAndroidDesign - Sample to show how to implement blur graphical tricks](https://github.com/PomepuyN/BlurEffectForAndroidDesign)
+
++ WebSites
+  + [Android Views](http://www.androidviews.net/)
+
++ Dev Tools
+  + [android dpi calculator](http://coh.io/adpi/)
+  + [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/)
+  + [Android Asset Studio](http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html)
+  + [Android Holo Colors Generator](http://android-holo-colors.com/)
+
