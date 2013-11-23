@@ -15,6 +15,7 @@ Bookmarks for android development
   + [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
   + [ActionBar-PullToRefresh - provides an easy way to add a modern version of the pull-to-refresh interaction to your application.](https://github.com/chrisbanes/ActionBar-PullToRefresh)
   + [android-viewbadger - A simple way to "badge" any given Android view at runtime without having to cater for it in layout](https://github.com/jgilfelt/android-viewbadger)
+  + [cardsui-for-android - CardsUI library with more features, including the popular Google Now & Google Play cards views, and an additional MVC implementation](https://github.com/Androguide/cardsui-for-android)
 
 
 + ORM
