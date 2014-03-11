@@ -15,7 +15,8 @@ Bookmarks for android development
   + [ActionBar-PullToRefresh - provides an easy way to add a modern version of the pull-to-refresh interaction to your application.](https://github.com/chrisbanes/ActionBar-PullToRefresh)
   + [android-viewbadger - A simple way to "badge" any given Android view at runtime without having to cater for it in layout](https://github.com/jgilfelt/android-viewbadger)
   + [cardsui-for-android - CardsUI library with more features, including the popular Google Now & Google Play cards views, and an additional MVC implementation](https://github.com/Androguide/cardsui-for-android)
-
+  + [Satellite Menu - a very attractive menu sitting on the left bottom corner of the screen like in 'Path'](https://github.com/siyamed/android-satellite-menu)
+  + [RateMeMaybe - dialog that asks the user if (s)he wants to open the Play Store to rate your application when certain requirements are met](https://github.com/Kopfgeldjaeger/RateMeMaybe)
 
 + ORM
   + [greenDAO – Android ORM for SQLite](http://greendao-orm.com/)
@@ -56,6 +57,7 @@ Bookmarks for android development
 
 + Demo
   + [BlurEffectForAndroidDesign - Sample to show how to implement blur graphical tricks](https://github.com/PomepuyN/BlurEffectForAndroidDesign)
+  + [Blurring - Sandbox project for different blurring techniques](https://github.com/paveldudka/blurring)
 
 + WebSites
   + [Android Views](http://www.androidviews.net/)
