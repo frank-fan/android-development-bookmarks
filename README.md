@@ -29,7 +29,13 @@ Bookmarks for android development
   + [google-gson - A Java library to convert JSON to Java objects and vice-versa](https://code.google.com/p/google-gson/)
   + [Keyczar - an open source cryptographic toolkit designed to make it easier and safer for developers to use cryptography in their applications. by Google.inc](http://www.keyczar.org/)
   + [appdatapreferences-android](https://github.com/googledrive/appdatapreferences-android)
-  
+
++ SDK
+  + [Facebook SDK for Android](https://developers.facebook.com/docs/android/)
+  + [Twitter SDK for Android](http://twitter4j.org/)
+  + [Vkontakte SDK for Android](https://github.com/VKCOM/vk-android-sdk)
+  + [WordPress SDK for Android](https://github.com/wordpress-mobile/WordPress-Android)
+
 + Push Service
   + [GCM - Google Cloud Messaging for Android](http://developer.android.com/google/gcm/index.html)
   + [Parse - The perfect cloud for your apps.](https://www.parse.com/)
