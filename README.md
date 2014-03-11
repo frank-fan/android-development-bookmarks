@@ -6,7 +6,6 @@ Bookmarks for android development
 + UI
   + [Slide Menu](https://github.com/jfeinstein10/SlidingMenu)
   + [ActionBarSherlock](http://actionbarsherlock.com/)
-  + [Android ViewBadger](https://github.com/jgilfelt/android-viewbadger)
   + [QuiltViewLibrary -QuiltView displays views of different sizes in a scrollable grid.](https://github.com/jacobmoncur/QuiltViewLibrary)
   + [Crouton - Context sensitive notifications for Android](https://github.com/keyboardsurfer/Crouton)
   + [Android-PullToRefresh - Pull To Refresh Views for Android(DEPRECATED)](https://github.com/chrisbanes/Android-PullToRefresh)
