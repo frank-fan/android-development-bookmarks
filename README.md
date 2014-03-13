@@ -36,6 +36,7 @@ Bookmarks for android development
   + [Twitter SDK for Android](http://twitter4j.org/)
   + [Vkontakte SDK for Android](https://github.com/VKCOM/vk-android-sdk)
   + [WordPress SDK for Android](https://github.com/wordpress-mobile/WordPress-Android)
+  + [EasyFoursquare4Android](https://github.com/condesales/easyFoursquare4Android)
 
 + Push Service
   + [GCM - Google Cloud Messaging for Android](http://developer.android.com/google/gcm/index.html)
