@@ -6,7 +6,6 @@ Bookmarks for android development
 + UI
   + [Slide Menu](https://github.com/jfeinstein10/SlidingMenu)
   + [ActionBarSherlock](http://actionbarsherlock.com/)
-  + [Android ViewBadger](https://github.com/jgilfelt/android-viewbadger)
   + [QuiltViewLibrary -QuiltView displays views of different sizes in a scrollable grid.](https://github.com/jacobmoncur/QuiltViewLibrary)
   + [Crouton - Context sensitive notifications for Android](https://github.com/keyboardsurfer/Crouton)
   + [Android-PullToRefresh - Pull To Refresh Views for Android(DEPRECATED)](https://github.com/chrisbanes/Android-PullToRefresh)
@@ -16,7 +15,8 @@ Bookmarks for android development
   + [ActionBar-PullToRefresh - provides an easy way to add a modern version of the pull-to-refresh interaction to your application.](https://github.com/chrisbanes/ActionBar-PullToRefresh)
   + [android-viewbadger - A simple way to "badge" any given Android view at runtime without having to cater for it in layout](https://github.com/jgilfelt/android-viewbadger)
   + [cardsui-for-android - CardsUI library with more features, including the popular Google Now & Google Play cards views, and an additional MVC implementation](https://github.com/Androguide/cardsui-for-android)
-
+  + [Satellite Menu - a very attractive menu sitting on the left bottom corner of the screen like in 'Path'](https://github.com/siyamed/android-satellite-menu)
+  + [RateMeMaybe - dialog that asks the user if (s)he wants to open the Play Store to rate your application when certain requirements are met](https://github.com/Kopfgeldjaeger/RateMeMaybe)
 
 + ORM
   + [greenDAO – Android ORM for SQLite](http://greendao-orm.com/)
@@ -30,7 +30,13 @@ Bookmarks for android development
   + [google-gson - A Java library to convert JSON to Java objects and vice-versa](https://code.google.com/p/google-gson/)
   + [Keyczar - an open source cryptographic toolkit designed to make it easier and safer for developers to use cryptography in their applications. by Google.inc](http://www.keyczar.org/)
   + [appdatapreferences-android](https://github.com/googledrive/appdatapreferences-android)
-  
+
++ SDK
+  + [Facebook SDK for Android](https://developers.facebook.com/docs/android/)
+  + [Twitter SDK for Android](http://twitter4j.org/)
+  + [Vkontakte SDK for Android](https://github.com/VKCOM/vk-android-sdk)
+  + [WordPress SDK for Android](https://github.com/wordpress-mobile/WordPress-Android)
+
 + Push Service
   + [GCM - Google Cloud Messaging for Android](http://developer.android.com/google/gcm/index.html)
   + [Parse - The perfect cloud for your apps.](https://www.parse.com/)
@@ -51,6 +57,7 @@ Bookmarks for android development
 
 + Demo
   + [BlurEffectForAndroidDesign - Sample to show how to implement blur graphical tricks](https://github.com/PomepuyN/BlurEffectForAndroidDesign)
+  + [Blurring - Sandbox project for different blurring techniques](https://github.com/paveldudka/blurring)
 
 + WebSites
   + [Android Views](http://www.androidviews.net/)
