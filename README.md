@@ -21,6 +21,7 @@ Bookmarks for android development
 + ORM
   + [greenDAO – Android ORM for SQLite](http://greendao-orm.com/)
   + [ActiveAndroid - Active record style SQLite persistence for Android](http://www.activeandroid.com/)
+  + [UcaORM - new generation orm for Android](https://github.com/UCASoft/UcaOrm)
 
 + Utils
   + [AndroidAnnotation - Fast Android Development. Easy maintainance.](http://androidannotations.org/)
