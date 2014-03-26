@@ -8,7 +8,6 @@ Bookmarks for android development
   + [ActionBarSherlock](http://actionbarsherlock.com/)
   + [QuiltViewLibrary](https://github.com/jacobmoncur/QuiltViewLibrary) - QuiltView displays views of different sizes in a scrollable grid.
   + [Crouton](https://github.com/keyboardsurfer/Crouton) - Context sensitive notifications for Android
-  + [Android-PullToRefresh - Pull To Refresh Views for Android(DEPRECATED)](https://github.com/chrisbanes/Android-PullToRefresh)
   + [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations) - An Android library which allows developers to easily add animations to ListView items
   + [android-swipelistview](https://github.com/47deg/android-swipelistview) - An Android List View implementation with support for drawable cells and many other swipe related features.
   + [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
