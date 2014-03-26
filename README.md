@@ -20,6 +20,7 @@ Bookmarks for android development
   + [FreeFlow](https://github.com/Comcast/FreeFlow) - A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change
   + [PhotoView](https://github.com/chrisbanes/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures.
   + [ProgressWheel](https://github.com/Todd-Davies/ProgressWheel) - A progress wheel for android, intended for use instead of the standard progress bar.
+  + [SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar) - A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar
 
 + ORM
   + [greenDAO](http://greendao-orm.com/) – Android ORM for SQLite
