@@ -17,6 +17,9 @@ Bookmarks for android development
   + [cardsui-for-android - CardsUI library with more features, including the popular Google Now & Google Play cards views, and an additional MVC implementation](https://github.com/Androguide/cardsui-for-android)
   + [Satellite Menu - a very attractive menu sitting on the left bottom corner of the screen like in 'Path'](https://github.com/siyamed/android-satellite-menu)
   + [RateMeMaybe - dialog that asks the user if (s)he wants to open the Play Store to rate your application when certain requirements are met](https://github.com/Kopfgeldjaeger/RateMeMaybe)
+  + [FreeFlow](https://github.com/Comcast/FreeFlow) - A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change
+  + [PhotoView](https://github.com/chrisbanes/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures.
+  + [ProgressWheel - A progress wheel for android, intended for use instead of the standard progress bar.](https://github.com/Todd-Davies/ProgressWheel)
 
 + ORM
   + [greenDAO – Android ORM for SQLite](http://greendao-orm.com/)
@@ -47,6 +50,7 @@ Bookmarks for android development
 + Analytics
   + [Google Analytics for Android](https://developers.google.com/analytics/devguides/collection/android/v2/)
   + [友盟](http://www.umeng.com/)
+  + [Flurry](www.flurry.com)
 
 + Square
   + [TimesSquare for Android - Standalone Android widget for picking a single date from a calendar view.](https://github.com/square/android-times-square)
@@ -57,13 +61,19 @@ Bookmarks for android development
   + [tape - a collection of queue-related classes for Android and Java by Square, Inc.](http://square.github.io/tape/)
   + [seismic - Android device shake detection.by Square, Inc.](https://github.com/square/seismic)
   + [Pollexor - Java client for the Thumbor image service which allows you to build URIs in an expressive fashion using a fluent API.](http://square.github.io/pollexor/)
+  + [Picasso - A powerful image downloading and caching library for Android](https://github.com/square/picasso)
 
 + Demo
   + [BlurEffectForAndroidDesign - Sample to show how to implement blur graphical tricks](https://github.com/PomepuyN/BlurEffectForAndroidDesign)
   + [Blurring - Sandbox project for different blurring techniques](https://github.com/paveldudka/blurring)
+  + [NotBoringActionBar - how to make not boring action bar](https://github.com/flavienlaurent/NotBoringActionBar)
 
 + WebSites
   + [Android Views](http://www.androidviews.net/)
+  + [Android User Interface | User Experience](http://androiduiux.com)
+  + [Mobile Design Pattern Gallery](http://www.mobiledesignpatterngallery.com/mobile-patterns.php)
+  + [Android UI Patterns](http://www.androiduipatterns.com/)
+  + [Android Weekly](http://androidweekly.net)
 
 + Dev Tools
   + [android dpi calculator](http://coh.io/adpi/)
